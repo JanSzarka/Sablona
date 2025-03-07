@@ -17,7 +17,6 @@ if(!include($file_path)) {
     echo"Failed to include $file_path";
 }
 ?>
-    
     <main>
       <section class="slides-container">
         <div class="slide fade">
